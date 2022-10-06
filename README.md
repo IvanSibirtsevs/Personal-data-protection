@@ -1,11 +1,11 @@
-# Защита персональных данных клиентов
+# Protection of personal data of customers
 
-*Нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. Обоснуйте корректность его работы.
-Нужно защитить данные, чтобы при преобразовании качество моделей машинного обучения не ухудшилось. Подбирать наилучшую модель не требуется.*
+*It is necessary to protect the data of clients of the insurance company "Though the Flood". Develop a data transformation method that makes it difficult to recover personal information from it. Justify the correctness of his work.
+You need to protect the data so that the quality of the machine learning models does not deteriorate during the transformation. There is no need to select the best model.*
 
-## Описания проекта
+## Project descriptions
 
 
-| Название проекта | Описание | Используемые библиотеки | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Защита персональных данных клиентов](borrowers_reliability) |Разработать такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. | *pandas, numpy, sklearn, itertools* |
+| Project name | Description | Used Libraries |
+| :--------------------- | :--------------------- | :--------------------- |
+| [Protection of personal data of clients](https://github.com/limenbah/Personal-data-protection/tree/main/Personal-data-protection) |Develop a method of data transformation so that it is difficult to recover personal information from them. | *pandas, numpy, sklearn, itertools* |
